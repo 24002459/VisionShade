@@ -62,3 +62,8 @@ This project demonstrates how to overlay a sunglasses image onto a human face us
 - Basic computer vision workflow  
 
 ---
+
+## Result
+
+The project successfully overlays sunglasses onto a face image using OpenCV by applying alpha masking and ROI-based image blending to produce a realistic final output.
+
